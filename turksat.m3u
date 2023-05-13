@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="FOX Turkiye" tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ilyswch/tr-iptv/main/fox.png",FOX Turkiye
+https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1684052648&st=Qb0dcH-MHMZwwRyZl0CLlw
+#EXTINF:-1 tvg-name="Kanal D" tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ilyswch/tr-iptv/main/kanald.png",Kanal D
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=5e53blnl3g6c&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+#EXTINF:-1 tvg-name="Star TV" tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ilyswch/tr-iptv/main/startv.png",Star TV
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=5e52xerpp15c&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+#EXTINF:-1 tvg-name="ShowTurk" tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ilyswch/tr-iptv/main/showtv.png",ShowTurk
+https://ciner-live.ercdn.net/showturk/showturk_576p.m3u8?e=1684002327&st=HO1IPEQqqXEB8HdCy6tFGA&tv=1
+#EXTINF:-1 tvg-name="Kanal 7" tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/ilyswch/tr-iptv/main/kanal7.png",Kanal 7
+https://kanal7.daioncdn.net/kanal7/kanal7_720p.m3u8?&sid=5e531c833x66&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
